@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
 </div>
 
-[!onlynavv's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
+[!onlynavv's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={onlynavv}&theme=vue)
