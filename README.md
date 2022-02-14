@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![fullstack_developer](https://stormotion.io/blog/content/images/2018/12/developer.gif)
-
-<div width="100%">
   
 ## Technology Stack
 
@@ -26,20 +24,11 @@ Here are some ideas to get you started:
 <img align="left" alt="node-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="100" />
 <img align="left" alt="mongo-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="100" />
 <img align="left" alt="express-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="100" />
-</div>
-
-<div width="100%">
   
 ## 📈 Github Stat's
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlynavv" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onlynavv&theme=dark&show_icons=true" />
-
-[![onlynavv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlynavv)](https://github.com/onlynavv/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
-</div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true" />
