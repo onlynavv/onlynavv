@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![onlynavv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlynavv)](https://github.com/onlynavv/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react)](https://github.com/onlynavv/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node)](https://github.com/onlynavv/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
