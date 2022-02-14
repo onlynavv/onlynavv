@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 ## 📈 Github Stat's
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlynavv&theme=dark&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=onlynavv&theme=dark&show_icons=true" />
 
 [![onlynavv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlynavv)](https://github.com/onlynavv/github-readme-stats)
 
@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
 </div>
 
-[!onlynavv's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={onlynavv}&theme=vue)
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true" />
