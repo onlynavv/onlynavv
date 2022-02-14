@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi I'm Naveen Kumar 👋☺️
 
 <!--
 **onlynavv/onlynavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![fullstack_developer](https://stormotion.io/blog/content/images/2018/12/developer.gif)
-  
-## Technology Stack
+<p>Hi!, I'am Naveen Kumar, a self taught MERN stack developer from India, currently I'm doing projects on MERN</p>
+
+<img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" align="right" width="500" />
+
+## 📈 Github Stat's
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlynavv" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlynavv&theme=dark&show_icons=true" />
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true" />
+</div>
+
+
+## 💻 Technology Stack
 
 <img align="left" alt="javascript-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100" />
 <img align="left" alt="react-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100" />
 <img align="left" alt="node-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="100" />
 <img align="left" alt="mongo-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="100" />
 <img align="left" alt="express-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="100" />
-  
-## 📈 Github Stat's
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlynavv" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=onlynavv&theme=dark&show_icons=true" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true" />
