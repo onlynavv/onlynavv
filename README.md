@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![onlynavv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlynavv)](https://github.com/onlynavv/github-readme-stats)
 
-[![onlynavv's Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=github-readme-stats&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
+[![onlynavv's Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=github-readme-stats)](https://github.com/onlynavv/github-readme-stats)
