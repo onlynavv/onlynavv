@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
 </div>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={onlynavv}&theme=vue" />
