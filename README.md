@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ![fullstack_developer](https://stormotion.io/blog/content/images/2018/12/developer.gif)
 
+### Technology Stack
+<img align="left" alt="javascript-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="80" />
+<img align="left" alt="react-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="80" />
+<img align="left" alt="node-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="80" />
+<img align="left" alt="mongo-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="80" />
+
 ### 📈 Github Stat's
 
 [![Onlynavv's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlynavv&theme=dark&show_icons=true)](https://github.com/onlynavv/github-readme-stats)
