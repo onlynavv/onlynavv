@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlynavv" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=onlynavv&theme=dark&show_icons=true" />
 <br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=laundry-react&theme=dark&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-node&theme=dark&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=job-portal&theme=dark&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=recipe-react&theme=dark&show_icons=true" />
 </div>
 
 
