@@ -26,13 +26,6 @@ Here are some ideas to get you started:
 <br />
 </div>
 
-## Recently worked projects
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=laundry-react&theme=dark&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=job-portal&theme=dark&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=recipe-react&theme=dark&show_icons=true" />
-
-
 ## 💻 Technology Stack
 
 <img align="left" alt="javascript-lang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100" />
