@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 </div>
 
 ## Recently worked projects
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=laundry-react&theme=dark&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=job-portal&theme=dark&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=recipe-react&theme=dark&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=laundry-react&theme=dark&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=job-portal&theme=dark&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=fitness-react&theme=dark&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onlynavv&repo=recipe-react&theme=dark&show_icons=true" />
 
 
 ## 💻 Technology Stack
